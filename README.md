@@ -2,24 +2,23 @@
 
 # Overview
 
-{Important!  Do not say in this section that this is college assignment.  Talk about what you are trying to accomplish as a software engineer to further your learning.}
+A web program that allows me to get HelloWorld message if you press the start button.
 
-A program that allows me to get HelloWorld message from database
-
-{Describe your purpose for creating this software.}
-
-{Provide a link to your YouTube demonstration.  It should be a one minute demo of the software running and a walkthrough of the code.}
+The porpuse of this software is to dispaly a message in a different way, making a simple code funny.
 
 [Software Demo Video](http://youtube.link.goes.here)
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
+I used the tools CSS Background Pattern Generator and the CSS Text Glitch Effect Generator from 100L5 website to make the background and the text glitch.
 
-{Describe the programming language that you used}
+- HTML
+- JavaScript
+- CSS
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+
+- [100L5](https://10015.io/css-tools)
+- [CSS Scan](https://getcssscan.com/css-buttons-examples)
