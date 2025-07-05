@@ -6,7 +6,7 @@ A web program that allows me to get HelloWorld message if you press the start bu
 
 The porpuse of this software is to dispaly a message in a different way, making a simple code funny.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/3eNsVmMANOY)
 
 # Development Environment
 
@@ -17,8 +17,6 @@ I used the tools CSS Background Pattern Generator and the CSS Text Glitch Effect
 - CSS
 
 # Useful Websites
-
-{Make a list of websites that you found helpful in this project}
 
 - [100L5](https://10015.io/css-tools)
 - [CSS Scan](https://getcssscan.com/css-buttons-examples)
